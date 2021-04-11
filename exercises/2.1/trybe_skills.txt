@@ -3,3 +3,5 @@ Bash
 Git
 React
 SQL
+SQL
+Phyton
