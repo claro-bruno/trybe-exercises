@@ -1,1 +1,1 @@
-Repos�itório criado a fim dos exercicios ao curso da Trybe do meu desenvolvimento ao que esta sendo desenvolvido
+Repositório criado ao longo do curso da Trybe para os exercicios em meu desenvolvimento.
