@@ -1,0 +1,41 @@
+
+h1 {
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+
+}
+
+lista {
+    background-color:#adff2f;
+    font-style: italic;
+    line-height:20px;
+    text-align: center;
+    text-decoration:dashed;
+}
+
+.clListaP {
+    background-color: blue;
+}
+
+p{
+    font-weight: 600;
+    font-size:3em;
+}
+
+body
+{
+    font-size:16px;
+}
+
+#yellow {
+    background-color:yellow;
+}
+
+#red {
+    background-color:red;
+}
+
+#brown {
+    background-color:brown;
+}

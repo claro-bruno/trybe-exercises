@@ -1,0 +1,31 @@
+h2 {
+    color:aquamarine;
+    font-size: 2em;
+}
+
+body {
+    background-color: rgb(8, 168, 160);
+}
+
+p {
+    font-family: fantasy;
+    font-size: 20px;
+}
+#hoje {
+    background-color: red;
+}
+
+#aprendizado {
+    color: orange;
+}
+
+.list-style {
+    background-color:blue;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 40px;
+    text-align: center;
+    text-decoration: underline;
+}
+
