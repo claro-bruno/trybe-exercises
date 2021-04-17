@@ -1,0 +1,54 @@
+
+
+
+div:hover{
+    border-style: dotted;
+}
+
+.cor_primaria {
+    color: red;
+}
+h3.cor_primaria {
+    font-weight: 500;
+}
+.cor_secundaria {
+    color: orange;
+}
+
+h3.cor_secundaria {
+    font-weight: 500;
+}
+
+.cor_complementar {
+    color: yellow;
+}
+h3.cor_complementar {
+    font-weight: 500;
+}
+.cor_escura {
+    color: #07155e;
+}
+
+h3.cor_escura {
+    font-weight: 700;
+}
+.cor_clara {
+    color:aqua;
+}
+
+h3.cor_clara {
+    font-weight: 100;
+}
+
+.main div:nth-child(odd)
+{
+    font-style: italic;
+}
+
+.main div:nth-child(even)
+{
+    font-weight:bold;
+}
+
+
+

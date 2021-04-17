@@ -1,0 +1,21 @@
+.corpo p, .corpo h1  {
+    text-align: center;
+}
+body{
+    font-family: monospace;
+}
+
+.listSKills li:hover {
+    background-color:orange;
+}
+
+.listSKills li:active {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.listSKills {
+    list-style: none;
+}
+
+
+

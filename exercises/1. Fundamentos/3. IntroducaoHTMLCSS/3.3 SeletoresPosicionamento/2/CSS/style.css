@@ -1,0 +1,48 @@
+body {
+    font-family: fantasy;
+    color: rgb(3,174,213);
+}
+
+.praia {
+    width:"800px";
+    position: absolute;
+    top: 20px;
+    left:10px;
+    z-index: 1;
+}
+
+.oculos
+{
+    top: 108px;
+    left: 120px;
+    position: absolute;
+    z-index: 3;
+    width:150px;
+}
+
+.bruno {
+    position: absolute;
+    top:50px;
+    left:50px;
+    z-index: 2;
+    width:150px;
+}
+
+h1 {
+    position: absolute;
+    z-index: 4;
+    left:30px;
+}
+
+.song {
+    position: absolute;
+    z-index: 5;
+    top:450px;
+}
+
+.coqueiro {
+    width:100px;
+    float: left;
+    margin-left: 50px;
+
+}

@@ -1,0 +1,17 @@
+p, h3 {
+    font-family: monospace;
+}
+
+li:hover {
+    background-color:orange;
+}
+
+li:hover {
+    background-color:orange;
+    transition:  width 2s, height 4s;
+}
+
+li:active {
+    background-color:blueviolet;
+}
+
